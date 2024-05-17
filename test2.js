@@ -7,3 +7,5 @@ let demoXYZ = "Headphones";
 var test = "test text";
 
 console.log(factorial(3)); // 6
+
+//new COmmnet test 2.1 added
