@@ -11,3 +11,5 @@ const mycar = {
 console.log(mycar.make); // "Honda"
 myFunc(mycar);
 console.log(mycar.make); // "Toyota"
+
+//new comment 1 added
