@@ -4,4 +4,6 @@ const factorial = function fac(n) {
 
 let demoXYZ = "Headphones";
 
+var test = "test text";
+
 console.log(factorial(3)); // 6
